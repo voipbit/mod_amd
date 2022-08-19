@@ -1,4 +1,4 @@
-mod_amd for FreeSWITCH
+Answering Machine Detection (AMD) for FreeSWITCH
 ===============================
 
 This is an implementation of answering machine detection (voice

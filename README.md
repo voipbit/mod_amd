@@ -22,7 +22,7 @@ host$ make
 
 Sample Configuration
 --------------------
-Just put a file like this in your freeswitch installation, in **conf/autoload_configs/amd.conf.xml**
+Just put a file like this in your freeswitch installation, in **conf/autoload_configs/mod_amd.conf.xml**
 ```xml
 <configuration name="mod_amd.conf" description="mod_amd Configuration">
   <settings>

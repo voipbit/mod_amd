@@ -6,6 +6,7 @@ activity detection) for FreeSWITCH.
 
 Currently, in limited testing, we are able to get satisfactory results in
 determining what is a human and what is a machine. This has been tested with millions of machines across globe.
+This module supports async machine detection.
 
 Building
 --------
